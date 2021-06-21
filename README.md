@@ -1,5 +1,5 @@
 # Checkers-Game
-Implementation of Checkers game in python
+Implementation of Checkers game in python where you can play versus an AI that uses Minimax
 
 University of Bucharest
 Second Year
